@@ -482,6 +482,23 @@
     )
   )
 
+  (sheet (at 75.819 57.15) (size 25.4 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 992b309c-40d2-4352-97b7-0477e3977f90)
+    (property "Sheetname" "2nd Order Filter" (at 75.819 56.4384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 75.819 79.3246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Synth"
+        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 75.565 25.4) (size 24.13 20.955) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
