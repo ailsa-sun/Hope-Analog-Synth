@@ -456,9 +456,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "RV5") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "RV5") (unit 1)
         )
@@ -489,9 +486,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "#PWR015") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "#PWR015") (unit 1)
         )
@@ -522,9 +516,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "#PWR016") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "#PWR016") (unit 1)
         )
@@ -557,9 +548,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "RV6") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "RV6") (unit 1)
         )
@@ -591,9 +579,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "C4") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "C4") (unit 1)
         )
@@ -631,9 +616,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "U6") (unit 3)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "U6") (unit 3)
         )
@@ -666,9 +648,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "RV8") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "RV8") (unit 1)
         )
@@ -700,9 +679,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "C1") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "C1") (unit 1)
         )
@@ -735,9 +711,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "RV7") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "RV7") (unit 1)
         )
@@ -775,9 +748,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "U6") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "U6") (unit 1)
         )
@@ -815,9 +785,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "U6") (unit 2)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "U6") (unit 2)
         )
@@ -848,9 +815,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "#PWR017") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "#PWR017") (unit 1)
         )
@@ -882,9 +846,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "C3") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "C3") (unit 1)
         )
@@ -915,9 +876,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "#PWR014") (unit 1)
         )
@@ -949,9 +907,6 @@
         )
       )
       (project "Synth"
-        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79"
-          (reference "C2") (unit 1)
-        )
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/992b309c-40d2-4352-97b7-0477e3977f90"
           (reference "C2") (unit 1)
         )

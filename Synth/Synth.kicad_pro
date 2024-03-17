@@ -338,16 +338,20 @@
       ""
     ],
     [
-      "fc6d0d7c-83df-4484-8952-8723b6c6b44f",
+      "7289d584-7de2-4d44-9efd-165dc8256cf2",
       "3-Channel Mixer"
     ],
     [
-      "0556f177-e852-4513-876d-e94a89a088df",
-      "Double wavefolder"
+      "f75ed15d-dc0c-437e-bd82-524bc7e88f27",
+      "'ADSR' Envelope"
     ],
     [
       "992b309c-40d2-4352-97b7-0477e3977f90",
       "2nd Order Filter"
+    ],
+    [
+      "fff86bc7-37be-4dc8-9235-a859ce6d06d4",
+      "Double wavefolder"
     ]
   ],
   "text_variables": {}
