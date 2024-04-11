@@ -1253,7 +1253,7 @@
     (property "Value" "20k" (at 86.36 101.6 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 83.82 100.33 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3299W_Vertical" (at 83.82 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 100.33 0)
