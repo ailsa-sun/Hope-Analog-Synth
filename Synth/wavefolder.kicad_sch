@@ -649,10 +649,10 @@
     (uuid fec6b8e2-01c0-47a6-864a-896d12388a3c)
   )
 
-  (global_label "V_in+" (shape input) (at 64.135 94.615 180) (fields_autoplaced)
+  (global_label "V_inW+" (shape input) (at 64.135 94.615 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 69f84b70-067f-4739-be5d-cf2276ce9056)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 55.7674 94.615 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 54.316 94.615 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
