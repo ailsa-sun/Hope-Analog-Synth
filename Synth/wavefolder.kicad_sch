@@ -965,6 +965,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 144.78 92.075 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6f2f9a04-4096-4da2-9bae-66478bbd2e9d)
+    (property "Reference" "#PWR035" (at 144.78 98.425 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 144.78 97.409 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 144.78 92.075 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 144.78 92.075 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2d2f7054-2e07-425f-ac11-15e444266c58))
+    (instances
+      (project "Synth"
+        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/fff86bc7-37be-4dc8-9235-a859ce6d06d4"
+          (reference "#PWR035") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Simulation_SPICE:NPN") (at 118.11 94.615 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 746b4b9e-3566-4191-a525-3c3bcbb558d2)
@@ -1228,7 +1253,7 @@
     (property "Value" "20k" (at 86.36 101.6 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 83.82 100.33 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 83.82 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 100.33 0)
@@ -1347,6 +1372,31 @@
       (project "Synth"
         (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/fff86bc7-37be-4dc8-9235-a859ce6d06d4"
           (reference "#PWR03") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+12V") (at 144.78 76.835 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid ebbebf73-fd9d-4f18-b971-3e4cd26cea12)
+    (property "Reference" "#PWR06" (at 144.78 80.645 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+12V" (at 144.78 72.39 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 144.78 76.835 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 144.78 76.835 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 17007a13-854a-471e-8850-46e61a93c1bf))
+    (instances
+      (project "Synth"
+        (path "/69caad27-d98a-4cdc-abd0-794bd5e6ba79/fff86bc7-37be-4dc8-9235-a859ce6d06d4"
+          (reference "#PWR06") (unit 1)
         )
       )
     )
