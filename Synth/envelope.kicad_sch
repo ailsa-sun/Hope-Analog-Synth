@@ -1185,7 +1185,7 @@
     (property "Reference" "D1" (at 76.835 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100k" (at 76.835 92.71 0)
+    (property "Value" "" (at 76.835 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_0805_2012Metric" (at 76.835 95.885 0)
